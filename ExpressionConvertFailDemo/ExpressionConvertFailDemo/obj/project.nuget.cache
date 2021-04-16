@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZzBFd3BcXHv6FWLlSc3SQN91txb2211ugstFW/J7Z4DEgMfXMi87YAS36Pq3Vp7XKebukITgfYEMN62XFRMww==",
+  "success": true,
+  "projectFilePath": "D:\\个人文件\\新建文件夹\\ExpressionConvertFailDemo\\ExpressionConvertFailDemo\\ExpressionConvertFailDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mb_programmer\\.nuget\\packages\\linq2db\\3.3.0\\linq2db.3.3.0.nupkg.sha512",
+    "C:\\Users\\mb_programmer\\.nuget\\packages\\linq2db.sqlite\\3.3.0\\linq2db.sqlite.3.3.0.nupkg.sha512",
+    "C:\\Users\\mb_programmer\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.2\\stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "C:\\Users\\mb_programmer\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\mb_programmer\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}
