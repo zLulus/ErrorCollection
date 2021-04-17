@@ -7,6 +7,7 @@ namespace ExpressionConvertFailDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Talk is cheap,show me the code.");
         }
     }
 }
