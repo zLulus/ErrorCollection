@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace ExpressionConvertFailDemo.Entities
 {
-    public class Student : Entity
+    public class Class: Entity
     {
         [Column(CanBeNull = false)]
-        public string Name { get; set; }
-        [Column]
-        public int Age { get; set; }
+        public string ClassName { get; set; }
+        [Column(CanBeNull = false)]
+        public int ClassTotalHour { get; set; }
     }
 }
